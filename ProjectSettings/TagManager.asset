@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - charater
+  - Water
+  - UI
+  - Ground
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: CollidingBox
+    uniqueID: 943726769
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 4215384927
+    locked: 0
+  - name: Sky Clouds
+    uniqueID: 1025933273
+    locked: 0
+  - name: Sun
+    uniqueID: 2480123347
+    locked: 0
+  - name: Sky2
+    uniqueID: 402822963
+    locked: 0
+  - name: SkyCLouds2
+    uniqueID: 1919014711
+    locked: 0
+  - name: RedMountains
+    uniqueID: 2766549031
+    locked: 0
+  - name: Green mountains
+    uniqueID: 1174538393
+    locked: 0
+  - name: BlueMountains
+    uniqueID: 3627964787
+    locked: 0
+  - name: Ground
+    uniqueID: 695616963
+    locked: 0
+  - name: BEAMS
+    uniqueID: 1495243517
+    locked: 0
+  - name: Intro Cutscene
+    uniqueID: 3824638661
+    locked: 0
+  - name: Character
+    uniqueID: 19902239
+    locked: 0
+  - name: Foreground
+    uniqueID: 904255663
+    locked: 0
